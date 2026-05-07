@@ -1,0 +1,6 @@
+{
+  "name": "AI Automated QA Report Generator",
+  "description": "Deep-crawl AI technical audit tool that analyzes DOM structure, tag distribution, performance metrics, and technical hygiene to generate comprehensive QA reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
